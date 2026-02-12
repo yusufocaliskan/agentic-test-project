@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Kullanıcı arayüzü tasarımını güncelle",
+      "assignee": "Ahmet Yılmaz",
+      "status": "in-progress",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "title": "API entegrasyonunu tamamla",
+      "assignee": "Ayşe Demir",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "id": 3,
+      "title": "Veritabanı optimizasyonu yap",
+      "assignee": "Mehmet Kaya",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "id": 4,
+      "title": "Dokümantasyonu güncelle",
+      "assignee": "Zeynep Arslan",
+      "status": "pending",
+      "priority": "low"
+    },
+    {
+      "id": 5,
+      "title": "Test senaryolarını yaz",
+      "assignee": "Can Öztürk",
+      "status": "in-progress",
+      "priority": "medium"
+    },
+    {
+      "id": 6,
+      "title": "Performans iyileştirmeleri",
+      "assignee": "Ahmet Yılmaz",
+      "status": "pending",
+      "priority": "high"
+    }
+  ]
+}
